@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chen Yen Tung (Tony)</h1>
-<h3 align="center">A passionate junior backend developer from Taiwan</h3>
+<h3 align="center">An aspiring junior backend developer from Taiwan</h3>
 
 - 🌱 I’m currently learning **The complete ruby on rails developer course on Udemy, to reinforce my learning from bootcamp**
 
